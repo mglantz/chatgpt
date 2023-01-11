@@ -1,5 +1,5 @@
 # chatgpt
-Simple command line integration to Chat GPT
+Simple command line integration to Chat GPT, showcasing how you can use AI in day 2 operational tasks.
 
 ## Installation
 
