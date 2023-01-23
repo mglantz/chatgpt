@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 # Chat GPT integration
 # Magnus Glantz, sudo@redhat.com, 2023
 # https://github.com/mglantz/chatgpt/
