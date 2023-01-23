@@ -14,7 +14,7 @@ export OPENAI_API_KEY=sk-thekeythatyoucreated
 ```
 4. Install python dependency
 ```
-pip install openai
+pip3 install openai
 ```
 
 5. Execute the gpt.py script.
