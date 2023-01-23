@@ -12,7 +12,12 @@ Simple command line integration to Chat GPT, showcasing how you can use AI in da
 ```
 export OPENAI_API_KEY=sk-thekeythatyoucreated
 ```
-4. Execute the gpt.py script.
+4. Install python dependency
+```
+pip install openai
+```
+
+5. Execute the gpt.py script.
 
 ![Example of usage](chatgptusage.png?raw=true "Title")
 
